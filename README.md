@@ -22,10 +22,10 @@ Today, Kickstarter aims at empowering entrepreneurs to actualize their creative 
 In it's initial stages, the company received some funds from friends to get up and running. These days, Kickstarter PBC applies a 5% fee to the funds collected on any successfully funded project. A third party payment partner, Stripe also processes all pledges and charge a 3-5% processing fee.
 
 Kickstarter displays statistics updated daily with the raw data behind Kickstarter. As of 23rd March 2022:
-* Total amount of launched projects was 552813,
+* Total amount of launched projects was 552,813
 * Total amount of Sucessfully funded projects was 217,463
-* Total amont of backers was 20834903 with 7065031 being repeat backers
-* Total amount of pledges was 79240041
+* Total amont of backers was 20,834,903 with 7,065,031 being repeat backers
+* Total amount of pledges was 79,240,041
 
 ## Why use Kickstarter?
 
